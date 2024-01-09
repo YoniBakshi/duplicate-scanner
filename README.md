@@ -39,5 +39,6 @@ Installation and Usage :
 - Ensure you have Python installed on your system.
 Install required Python packages using the following command:
 - pip install PyQt5
+  
 Run the application using the following command:
 python <filename>.py
